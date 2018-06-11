@@ -6,3 +6,5 @@ url: "https://jona-sassenhagen.github.io/test_jekyll_thing"
 title: Testing Jekyll # site's title
 description: "A website with blog posts and pages" # used by search engines
 
+
+theme: jekyll-theme-time-machine
