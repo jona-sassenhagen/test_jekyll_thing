@@ -1,4 +1,4 @@
-remote_theme:Type-on-Strap
+remote_theme: Sylhare/Type-on-Strap
 
 # SITE CONFIGURATION
 baseurl: "/test_jekyll_thing"
