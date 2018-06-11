@@ -1,4 +1,4 @@
-remote_theme: Sylhare/Type-on-Strap
+#remote_theme: Sylhare/Type-on-Strap
 
 # SITE CONFIGURATION
 baseurl: "/test_jekyll_thing"
@@ -7,4 +7,4 @@ title: Testing Jekyll # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
-#theme: jekyll-theme-time-machine
+theme: jekyll-theme-time-machine
